@@ -1,4 +1,7 @@
 # Introduction
+
+![plot](./Cover.JPG)
+
 This Github is using for the training workshop of "AI Visual Inspection system for road defection".
 You may download the handouts and try the program codes by yourself. There are also suggested solutions in the website.
 
